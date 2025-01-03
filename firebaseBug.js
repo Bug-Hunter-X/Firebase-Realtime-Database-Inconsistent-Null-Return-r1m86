@@ -1,0 +1,1 @@
+The Firebase Realtime Database sometimes returns null values even when data exists at the specified path. This can happen inconsistently, making debugging difficult.  It often occurs when dealing with deeply nested data or when there's a high volume of read operations.
